@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.sec-1{
+    background-image: url(./image/floral.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 540px;
+    inset: auto;
+}
+
+.secdiv-3{
+    background-image: url(./image/DSC_0711+copy.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 320px;
+}
+
+.secdiv-4{
+    background-image: url(./image/360_F_245010583_5HQx3n6oRMhBPKb6XhY5VHxi9EJvBRh7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+
+.sec-5{
+    background-image: url(./image/photo-1603261464398-7a0e6cdd13d9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
